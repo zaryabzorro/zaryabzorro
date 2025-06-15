@@ -78,22 +78,17 @@ I'm always open to interesting conversations and collaboration opportunities!
 
 
 
-<table>
-  <tr>
-    <td width="50%">
-      <h2 align="center">Contact Me</h2>
-      <p align="center">
-        <a href="https://www.upwork.com/freelancers/~019080765c0d6c8741"><img src="https://static.cdnlogo.com/logos/u/14/upwork.svg" alt="Upwork" height="30" width="30"></a>
-        <a href="https://www.fiverr.com/sellers/zaryabzorro"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/129_Fiverr_logo_logos-256.png" alt="Fiverr" height="30" width="30"></a>
-        <a href="https://www.freelancer.com/u/zaryabzorro"><img src="https://static.cdnlogo.com/logos/f/44/freelancer.svg" alt="freelance" height="30" width="30"></a>
-        <a href="mailto:zaryabzorro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="40"></a>
-        <a href="https://www.linkedin.com/in/zaryabzorro" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="30"></a>
-        <a href="https://www.instagram.com/zaryabzorro" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" width="30"></a>
-        <a href="https://www.facebook.com/zaryabzoroo" target="_blank"><img src="https://static.cdnlogo.com/logos/f/91/facebook-icon.svg" height="30" width="30"></a>
-        <a href="https://x.com/zaryabzorroo" target="_blank"><img src="https://static.cdnlogo.com/logos/x/9/x.svg" height="30" width="30"></a>
-      </p>
-    </td>
-  </tr>
-</table>
+
+  <h2 align="center">Contact Me</h2>
+  <p align="center">
+    <a href="https://www.upwork.com/freelancers/~019080765c0d6c8741"><img src="https://static.cdnlogo.com/logos/u/14/upwork.svg" alt="Upwork" height="30" width="30"></a>
+    <a href="https://www.fiverr.com/sellers/zaryabzorro"><img src="https://cdn4.iconfinder.com/data/icons/logos-and-brands/512/129_Fiverr_logo_logos-256.png" alt="Fiverr" height="30" width="30"></a>
+    <a href="https://www.freelancer.com/u/zaryabzorro"><img src="https://static.cdnlogo.com/logos/f/44/freelancer.svg" alt="freelance" height="30" width="30"></a>
+    <a href="mailto:zaryabzorro@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="30" width="40"></a>
+    <a href="https://www.linkedin.com/in/zaryabzorro" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" height="30" width="30"></a>
+    <a href="https://www.instagram.com/zaryabzorro" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="30" width="30"></a>
+    <a href="https://www.facebook.com/zaryabzoroo" target="_blank"><img src="https://static.cdnlogo.com/logos/f/91/facebook-icon.svg" height="30" width="30"></a>
+    <a href="https://x.com/zaryabzorroo" target="_blank"><img src="https://static.cdnlogo.com/logos/x/9/x.svg" height="30" width="30"></a>
+  </p>
 
 
