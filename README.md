@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=67c656&center=true&vCenter=true&width=500&lines=AI-Integrated+Web+%26+Mobile+Developer;Building+Scalable+Applications;High-Performance+Solutions;Always+Learning+New+Technologies" alt="Typing SVG" />
 </div>
 
-## 🚀 About Me
+##  About Me
 
 Hi, I'm **Zaryab Ahmad** - a **Full-Stack Developer** with **5+ years of experience** creating intelligent, high-performance web and mobile applications. I specialize in building scalable platforms that integrate AI-driven solutions to enhance automation, analytics, and user engagement.
 
@@ -19,9 +19,9 @@ For clients who demand the highest standards, I deliver **top-quality solutions*
 - **Specialization:** AI-integrated applications and scalable SaaS solutions
 - **Track Record:** Proven experience delivering high-quality SaaS Apps & real-time solutions
 
-## 🛠️ What I Offer
+## What I Offer
 
-### 💻 Full-Stack Web & Mobile Development
+### Full-Stack Web & Mobile Development
 Building fast, scalable applications using modern technologies and best practices.
 
 
@@ -46,12 +46,6 @@ Building fast, scalable applications using modern technologies and best practice
 - **Scalable SaaS Solutions** - Built for growth
 - **eCommerce Platforms** - Complete online stores
 - **Real-time Applications** - Live data and collaboration features
-
-### ☁️ **Cloud Deployment & Optimization**
-- **AWS Services** - EC2, S3, Elastic Beanstalk
-- **Modern Hosting** - Vercel, Heroku, Firebase
-- **Performance Optimization** - Fast loading, scalable architecture
-- **Security Implementation** - Secure, reliable applications
 
 ### 🔗 **Third-Party Integrations**
 - **Stripe & Stripe Connect** - Payment processing
