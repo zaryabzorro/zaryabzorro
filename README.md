@@ -28,8 +28,9 @@ Building fast, scalable applications using modern technologies and best practice
 <br>
 <div align="center">
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Hmmza-tariq/Hmmza-tariq/output/github-contribution-grid-snake-dark.svg">
-    <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/Hmmza-tariq/Hmmza-tariq/output/github-contribution-grid-snake.svg">
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/devarsl/devarsl/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/devarsl/devarsl/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/devarsl/devarsl/output/github-snake.svg" />
   </picture>
 </div>
 
